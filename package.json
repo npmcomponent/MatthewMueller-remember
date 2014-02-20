@@ -1,0 +1,14 @@
+{
+  "name": "matthewmueller-remember",
+  "description": "use localstorage to remember input values",
+  "version": "0.0.4",
+  "keywords": [],
+  "dependencies": {
+    "component-query": "git://github.com/npmcomponent/component-query.git",
+    "component-delegate": "git://github.com/npmcomponent/component-delegate.git",
+    "matthewmueller-store.js": "git://github.com/npmcomponent/matthewmueller-store.js.git",
+    "jkroso-unique-selector": "git://github.com/npmcomponent/jkroso-unique-selector.git",
+    "component-bind": "git://github.com/npmcomponent/component-bind.git"
+  },
+  "license": "MIT"
+}

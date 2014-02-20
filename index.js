@@ -2,10 +2,10 @@
  * Module Dependencies
  */
 
-var query = require('query'),
-    delegate = require('delegate'),
-    bind = require('bind'),
-    unique = require('unique-selector'),
+// commented out by npm-component: var query = require('component-query'),
+    delegate = require('component-delegate'),
+    bind = require('component-bind'),
+    unique = require('jkroso-unique-selector'),
     store = require('store');
 
 /**
